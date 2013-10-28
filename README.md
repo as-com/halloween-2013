@@ -1,7 +1,7 @@
 Halloween Sound Box 2013
 ===============
 
-The Halloween Sound Box, 2013 edition. See http://andrewsun.com/go/hallo2013 for more information.
+The Halloween Sound Box, 2013 edition. See [here](http://andrewsun.com/go/hallo2013) for more information.
 
 ##Licence
 
